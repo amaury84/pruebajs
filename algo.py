@@ -1,1 +1,1 @@
-otra cosa
+print("algo")
